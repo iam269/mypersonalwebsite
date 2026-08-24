@@ -122,8 +122,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Contact 📧
 - **Live Site**: [https://ionitaaurelmihai.vercel.app/](https://ionitaaurelmihai.vercel.app/)
 - **Email**: aurel.ionita@example.com (placeholder)
-- **LinkedIn**: [linkedin.com/in/ionitaaurelmihai](https://linkedin.com/in/ionitaaurelmihai)
-- **GitHub**: [github.com/ionitaaurelmihai](https://github.com/ionitaaurelmihai)
+- **LinkedIn**: [linkedin.com/in/itsiamdev](https://linkedin.com/in/itsiamdev)
+- **GitHub**: [github.com/itsiamdev](https://github.com/itsiamdev)
 
 ---
 
